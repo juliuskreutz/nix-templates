@@ -7,6 +7,9 @@
       gleam = {
         path = ./gleam;
       };
+      python = {
+        path = ./python;
+      };
     };
   };
 }
