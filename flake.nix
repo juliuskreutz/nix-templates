@@ -1,7 +1,9 @@
 {
-  templates = {
-    rust = {
-      path = ./rust;
+  outputs = {self}: {
+    templates = {
+      rust = {
+        path = ./rust;
+      };
     };
   };
 }
