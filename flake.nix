@@ -10,6 +10,9 @@
       rust = {
         path = ./rust;
       };
+      zig = {
+        path = ./zig;
+      };
     };
   };
 }
