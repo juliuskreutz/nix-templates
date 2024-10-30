@@ -4,6 +4,9 @@
       gleam = {
         path = ./gleam;
       };
+      go = {
+        path = ./go;
+      };
       python = {
         path = ./python;
       };
