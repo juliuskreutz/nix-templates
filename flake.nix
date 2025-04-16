@@ -1,6 +1,6 @@
 {
   outputs =
-    { }:
+    { ... }:
     {
       templates = {
         empty = {
