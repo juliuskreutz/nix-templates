@@ -1,8 +1,11 @@
 {
   outputs =
-    { self }:
+    { }:
     {
       templates = {
+        empty = {
+          path = ./empty;
+        };
         gleam = {
           path = ./gleam;
         };
