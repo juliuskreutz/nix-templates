@@ -3,6 +3,9 @@
     { ... }:
     {
       templates = {
+        c = {
+          path = ./c;
+        };
         empty = {
           path = ./empty;
         };
