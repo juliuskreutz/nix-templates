@@ -15,6 +15,9 @@
         go = {
           path = ./go;
         };
+        haskell = {
+          path = ./haskell;
+        };
         python = {
           path = ./python;
         };
