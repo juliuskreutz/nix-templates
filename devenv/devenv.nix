@@ -1,5 +1,3 @@
-{ pkgs, ... }:
+{ ... }:
 {
-  packages = with pkgs; [
-  ];
 }
